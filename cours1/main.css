@@ -1,26 +1,27 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
-  color: red;
+  background: linear-gradient(#FF8B1C, #8AA1E5);
+  color: blue;
   font-size: 25px;
-  font-family: Helvetica;
+  font-family: Georgia;
 }
 h1{
-  font-family: Courier;
-  color: red;
+  font-family: Georgia;
+  color: white;
   font-weight: lighter;
-  font-size: 10px;
+  font-size: 35px;
 }
-h2 {
-  font-family: Courier;
-  color: pink;
+p {
+  font-family: Georgia;
+  color: white;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 20px;
 }
 a {
-  color: yellow;
+  font-size: 20px;
+  color: white;
 }
 a:hover {
   text-decoration: none;
-  color: purple;
+  color: red;
 }
